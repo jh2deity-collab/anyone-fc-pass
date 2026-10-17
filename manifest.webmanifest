@@ -2,7 +2,7 @@
   "id": "./",
   "name": "AnyOne FC Pass — 보험설계사 자격시험 & 실무",
   "short_name": "FC Pass",
-  "description": "생명·손해·제3보험, 변액, 퇴직연금, AFPK, CFP 7대 자격시험 이론과 CBT 380문항, 오답 간격복습, 아나운서 오디오 학습, 실무 계산기.",
+  "description": "생명·손해·제3보험, 변액, 퇴직연금, AFPK, CFP 7대 자격시험 이론과 CBT 605문항, 오답 간격복습, 아나운서 오디오 학습, 실무 계산기.",
   "lang": "ko",
   "dir": "ltr",
   "start_url": "./?source=pwa#/dashboard",
