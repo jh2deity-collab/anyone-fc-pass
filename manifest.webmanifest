@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "AnyOne FC Pass — 보험설계사 자격시험 & 실무",
+  "short_name": "FC Pass",
+  "description": "생명·손해·제3보험, 변액, 퇴직연금, AFPK, CFP 7대 자격시험 이론과 CBT 380문항, 오답 간격복습, 아나운서 오디오 학습, 실무 계산기.",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./?source=pwa#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#F2F4F8",
+  "theme_color": "#1E3A8A",
+  "categories": ["education", "productivity", "finance"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "오늘 복습", "short_name": "복습", "url": "./?source=shortcut#/notes", "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "실전 모의고사", "short_name": "모의고사", "url": "./?source=shortcut#/practice", "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "오디오 학습", "short_name": "듣기", "url": "./?source=shortcut#/listen", "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
